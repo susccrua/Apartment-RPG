@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9b2693bbbb56648589b055bf2d950b73
+guid: 76ef71ac2302f4ed3bc0c6f60b6a7c03
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -17,36 +17,32 @@ ModelImporter:
     100022: Counter-sink
     100024: Counter-stove
     100026: Door
-    100028: Door_Group
-    100030: DoorFrame
-    100032: Floor
-    100034: Floor.001
-    100036: Flower.001
-    100038: Flowers-yellow
-    100040: Glass
-    100042: Handle_Back.001
-    100044: Handle_Front.001
-    100046: Lampholder
-    100048: Lampstrings
-    100050: //RootNode
-    100052: Minichair.002
-    100054: Minichair.003
-    100056: Minichair.004
-    100058: Picture
-    100060: Picture.001
-    100062: Rug
-    100064: Separator
-    100066: Shelves
-    100068: Table-Square
-    100070: Table-Tiny
-    100072: Teapot
-    100074: TV
-    100076: Vase
-    100078: Vase.001
-    100080: Wall
-    100082: Wall-window
-    100084: Window-frame
-    100086: Window-glass
+    100028: Floor
+    100030: Floor.001
+    100032: Flower.001
+    100034: Flowers-yellow
+    100036: Glass
+    100038: Lampholder
+    100040: Lampstrings
+    100042: //RootNode
+    100044: Minichair.002
+    100046: Minichair.003
+    100048: Minichair.004
+    100050: Picture
+    100052: Picture.001
+    100054: Rug
+    100056: Separator
+    100058: Shelves
+    100060: Table-Square
+    100062: Table-Tiny
+    100064: Teapot
+    100066: TV
+    100068: Vase
+    100070: Vase.001
+    100072: Wall
+    100074: Wall-window
+    100076: Window-frame
+    100078: Window-glass
     400000: Aspiradora
     400002: Books
     400004: Books.001
@@ -61,36 +57,32 @@ ModelImporter:
     400022: Counter-sink
     400024: Counter-stove
     400026: Door
-    400028: Door_Group
-    400030: DoorFrame
-    400032: Floor
-    400034: Floor.001
-    400036: Flower.001
-    400038: Flowers-yellow
-    400040: Glass
-    400042: Handle_Back.001
-    400044: Handle_Front.001
-    400046: Lampholder
-    400048: Lampstrings
-    400050: //RootNode
-    400052: Minichair.002
-    400054: Minichair.003
-    400056: Minichair.004
-    400058: Picture
-    400060: Picture.001
-    400062: Rug
-    400064: Separator
-    400066: Shelves
-    400068: Table-Square
-    400070: Table-Tiny
-    400072: Teapot
-    400074: TV
-    400076: Vase
-    400078: Vase.001
-    400080: Wall
-    400082: Wall-window
-    400084: Window-frame
-    400086: Window-glass
+    400028: Floor
+    400030: Floor.001
+    400032: Flower.001
+    400034: Flowers-yellow
+    400036: Glass
+    400038: Lampholder
+    400040: Lampstrings
+    400042: //RootNode
+    400044: Minichair.002
+    400046: Minichair.003
+    400048: Minichair.004
+    400050: Picture
+    400052: Picture.001
+    400054: Rug
+    400056: Separator
+    400058: Shelves
+    400060: Table-Square
+    400062: Table-Tiny
+    400064: Teapot
+    400066: TV
+    400068: Vase
+    400070: Vase.001
+    400072: Wall
+    400074: Wall-window
+    400076: Window-frame
+    400078: Window-glass
     2100000: RoomTexture
     2100002: Glass
     2100004: No Name
@@ -108,34 +100,31 @@ ModelImporter:
     2300022: Counter-sink
     2300024: Counter-stove
     2300026: Door
-    2300028: DoorFrame
-    2300030: Floor
-    2300032: Floor.001
-    2300034: Flower.001
-    2300036: Flowers-yellow
-    2300038: Glass
-    2300040: Handle_Back.001
-    2300042: Handle_Front.001
-    2300044: Lampholder
-    2300046: Lampstrings
-    2300048: Minichair.002
-    2300050: Minichair.003
-    2300052: Minichair.004
-    2300054: Picture
-    2300056: Picture.001
-    2300058: Rug
-    2300060: Separator
-    2300062: Shelves
-    2300064: Table-Square
-    2300066: Table-Tiny
-    2300068: Teapot
-    2300070: TV
-    2300072: Vase
-    2300074: Vase.001
-    2300076: Wall
-    2300078: Wall-window
-    2300080: Window-frame
-    2300082: Window-glass
+    2300028: Floor
+    2300030: Floor.001
+    2300032: Flower.001
+    2300034: Flowers-yellow
+    2300036: Glass
+    2300038: Lampholder
+    2300040: Lampstrings
+    2300042: Minichair.002
+    2300044: Minichair.003
+    2300046: Minichair.004
+    2300048: Picture
+    2300050: Picture.001
+    2300052: Rug
+    2300054: Separator
+    2300056: Shelves
+    2300058: Table-Square
+    2300060: Table-Tiny
+    2300062: Teapot
+    2300064: TV
+    2300066: Vase
+    2300068: Vase.001
+    2300070: Wall
+    2300072: Wall-window
+    2300074: Window-frame
+    2300076: Window-glass
     3300000: Aspiradora
     3300002: Books
     3300004: Books.001
@@ -150,34 +139,31 @@ ModelImporter:
     3300022: Counter-sink
     3300024: Counter-stove
     3300026: Door
-    3300028: DoorFrame
-    3300030: Floor
-    3300032: Floor.001
-    3300034: Flower.001
-    3300036: Flowers-yellow
-    3300038: Glass
-    3300040: Handle_Back.001
-    3300042: Handle_Front.001
-    3300044: Lampholder
-    3300046: Lampstrings
-    3300048: Minichair.002
-    3300050: Minichair.003
-    3300052: Minichair.004
-    3300054: Picture
-    3300056: Picture.001
-    3300058: Rug
-    3300060: Separator
-    3300062: Shelves
-    3300064: Table-Square
-    3300066: Table-Tiny
-    3300068: Teapot
-    3300070: TV
-    3300072: Vase
-    3300074: Vase.001
-    3300076: Wall
-    3300078: Wall-window
-    3300080: Window-frame
-    3300082: Window-glass
+    3300028: Floor
+    3300030: Floor.001
+    3300032: Flower.001
+    3300034: Flowers-yellow
+    3300036: Glass
+    3300038: Lampholder
+    3300040: Lampstrings
+    3300042: Minichair.002
+    3300044: Minichair.003
+    3300046: Minichair.004
+    3300048: Picture
+    3300050: Picture.001
+    3300052: Rug
+    3300054: Separator
+    3300056: Shelves
+    3300058: Table-Square
+    3300060: Table-Tiny
+    3300062: Teapot
+    3300064: TV
+    3300066: Vase
+    3300068: Vase.001
+    3300070: Wall
+    3300072: Wall-window
+    3300074: Window-frame
+    3300076: Window-glass
     4300000: Chair.001
     4300002: Chair
     4300004: Table-Tiny
@@ -199,27 +185,24 @@ ModelImporter:
     4300036: Glass
     4300038: Picture
     4300040: Picture.001
-    4300042: DoorFrame
-    4300044: Door
-    4300046: Handle_Back.001
-    4300048: Handle_Front.001
-    4300050: Wall
-    4300052: Wall-window
-    4300054: Floor.001
-    4300056: Bush
-    4300058: Bush.001
-    4300060: Bush.002
-    4300062: Bush.003
-    4300064: Aspiradora
-    4300066: Teapot
-    4300068: Lampholder
-    4300070: Lampstrings
-    4300072: Flower.001
-    4300074: Vase.001
-    4300076: Counter-corner
-    4300078: Counter-sink
-    4300080: Counter-stove
-    4300082: Separator
+    4300042: Door
+    4300044: Wall
+    4300046: Wall-window
+    4300048: Floor.001
+    4300050: Bush
+    4300052: Bush.001
+    4300054: Bush.002
+    4300056: Bush.003
+    4300058: Aspiradora
+    4300060: Teapot
+    4300062: Lampholder
+    4300064: Lampstrings
+    4300066: Flower.001
+    4300068: Vase.001
+    4300070: Counter-corner
+    4300072: Counter-sink
+    4300074: Counter-stove
+    4300076: Separator
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
